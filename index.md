@@ -1,3 +1,13 @@
+title: Tactical Evolution
+description: Forensic mapping of networks, symbols, and legal counter-scripts
+baseurl: "" # leave blank unless using a subpath
+url: "https://thepostwardream.com"
+markdown: kramdown
+theme: minima
+source "https://rubygems.org"
+gem "jekyll", "~> 4.3.2"
+
+
 ---
 layout: page           # remove if you’re not on GitHub Pages/Jekyll
 title: "From Subnets to Symbolism: A Tactical Evolution"
